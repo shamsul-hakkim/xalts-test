@@ -5,7 +5,7 @@ This is a simple project with a simple rest API that can be deployed using the a
 Clone the entire repository and follow the given instructions
 
 To see the plan and the list of resources getting created in Azure 
-$$$ terraform plan 
+# terraform plan 
 
 To create resources 
 $$$ terraform apply -auto-approve
